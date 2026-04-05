@@ -39,7 +39,7 @@ Raw PATH data are **not included** in this repository.
 
 To reproduce the analysis, obtain the PATH public-use files separately and place them in your local machine. See the instructions in:
 
-- `data_access/how_to_get_path_data.txt`
+- `data_access/README_data_access.md`
 
 ## Repository structure
 
